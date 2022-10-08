@@ -7,6 +7,8 @@ The vowels E/A and O/U are treated as interchangable, different letters may be u
 
 Similarily the pronunciation of all letters is not rigid, you may (and arguably should) pronounce words as is most comfortable, in the end all that matters is that your target audience understands you.
 Word list:
+|English|ali toki|
+|---:|----|
 |number|nampa
 |zero/none|selo
 |one|wan
@@ -24,7 +26,7 @@ Word list:
 |it/this|se
 |big/tall/large/adult/increase/lengthen/size|lan
 |sun/light|sol
-|kindness/positivity/good/thank you/improve/repair/make good|pon
+|kindness/positivity/good/thank you/improve/repair|pon
 |stay/wait/fixed/stationary|mai
 |all/everything/universe|ali
 |food/eat|eto
@@ -77,8 +79,8 @@ Word list:
 |above/top/ontop/superior/up|supi
 |new/fresh/different|nowu
 |wall/vertical/obstacle|walu
-|to/toward/for/to go/walk/travel/leave/move/transportation|mowe
-|language/speech/speaking/communication/talk/say/verbal/hello!|toki
+|toward/for/to go/travel/leave/move/transportation|mowe
+|language/speech/communication/talk/say/verbal/hello!|toki
 |room/space/volume/structure/home/building|tomo
 |one/unit/element/part/piece|pisu
 |want/will/need to/desire|wile
@@ -90,7 +92,7 @@ Word list:
 |long hard object/stick/branch/rod/pole|paton
 |feeling/emotion/to feel/touch/think about|senti
 |mistake/accident/broken/damage/damaged|fensu
-|force/energy/strong/powerful/intense/confident/make strong/intensify|sakti
+|force/energy/strong/powerful/intense/confident|sakti
 |far/missing/throw away/clean/free|jakto
 |body/physical state|sonti
 |front/chest/torso/face|pekto
