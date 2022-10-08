@@ -7,107 +7,107 @@ The vowels E/A and O/U are treated as interchangable, different letters may be u
 
 Similarily the pronunciation of all letters is not rigid, you may (and arguably should) pronounce words as is most comfortable, in the end all that matters is that your target audience understands you.
 Word list:
-|English|ali toki|
-|---:|----|
-|number|nampa
-|zero/none|selo
-|one|wan
-|two|tu
-|three|tin
-|four|fu
-|five|fai
-|no/wrong|ko
-|yes/correct|si
-|and|en
-|or/whether|ja
-|of|te
-|i/we/us/my/our|mi
-|you/your|ju
-|it/this|se
-|big/tall/large/adult/increase/lengthen/size|lan
-|sun/light|sol
-|kindness/positivity/good/thank you/improve/repair|pon
-|stay/wait/fixed/stationary|mai
-|all/everything/universe|ali
-|food/eat|eto
-|air/wind/smell/spirit/gaseous|fen
-|dead/death/kill/deadly|mot
-|road/path/way|via
-|word/name|nom
-|person|jen
-|man/male|man
-|woman/female|nisi
-|liquid/water|wota
-|gather/hunt/forage/search for|koja
-|below/bottom/down/under|nitsi
-|contrast/change|ante
-|bad/negative|nafi
-|inside|limi
-|dirty/gross|sale
-|have/own/include/recieve|tene
-|approach/come/arrive/start/event|satu
-|sound/noise|noisu
-|plant|lisu
-|use/to use|util
-|fruit|fala
-|hard/solid/stone/metal|petli
-|cut/fragment/separate/knife/sharp|kuto
-|viscous/honey|meli
-|sleep/rest|soma
-|leader/boss/guide|sifu
-|small/young/reduce|sotu
-|see/watch/read/visible|visi
-|hole/window/door/passage|tolu
-|land/country/space/area/place/location|stan
-|money/currency/wealth|moni
-|back/rear|posu
-|heavenly body/planet/star|stela
-|game/play/entertainment/fun/art|joki
-|many/large amount/increase|poli
-|stupid/crazy/drunk/weird|pijo
-|bump/hill/nose/mountain|mons
-|enjoy/like/love|itsa
-|open/turn|taka
-|activity/work/job/build/operate|lapo
-|give/send/put/to place|tone
-|end/tip over/past/finish/turn off|fini
-|side by side/edge/next to|late
-|container/vessel/box/sack|sako
-|same/equal/similar|simi
-|fire/hot/heat/warm/cooked/heat/cook/burn|ekni
-|cold/uncooked/freeze|kelu
-|above/top/ontop/superior/up|supi
-|new/fresh/different|nowu
-|wall/vertical/obstacle|walu
-|toward/for/to go/travel/leave/move/transportation|mowe
-|language/speech/communication/talk/say/verbal/hello!|toki
-|room/space/volume/structure/home/building|tomo
-|one/unit/element/part/piece|pisu
-|want/will/need to/desire|wile
-|surface/outside/shell/skin|kuti
-|circle/ring/periodic/cycle/sphere/ball/round/wheel|wolwo
-|image/picture/drawing/writing/graphical|pento
-|knowledge/wisdom/understanding/know/understand|nosko
-|taste/flavour|weita
-|long hard object/stick/branch/rod/pole|paton
-|feeling/emotion/to feel/touch/think about|senti
-|mistake/accident/broken/damage/damaged|fensu
-|force/energy/strong/powerful/intense/confident|sakti
-|far/missing/throw away/clean/free|jakto
-|body/physical state|sonti
-|front/chest/torso/face|pekto
-|flat/paper|plana
-|trade/exchange/market/shop|maoji
-|thing/object/item|wastu
-|tool/machine/device|masin
-|left|laiwo
-|right|teksto
-|colour|jansu
-|be/exist|sonsa
-|long/thin/rope/hair|patala
-|group/people/family|famili
-|to be able/allow/enable/make possible|anumati
-|animal|janawal
+| ali toki | English                                              |
+|:---------|------------------------------------------------------|
+| nampa    | number                                               |
+| selo     | zero/none                                            |
+| wan      | one                                                  |
+| tu       | two                                                  |
+| tin      | three                                                |
+| fu       | four                                                 |
+| fai      | five                                                 |
+| ko       | no/wrong                                             |
+| si       | yes/correct                                          |
+| en       | and                                                  |
+| ja       | or/whether                                           |
+| te       | of                                                   |
+| mi       | i/we/us/my/our                                       |
+| ju       | you/your                                             |
+| se       | it/this                                              |
+| lan      | big/tall/large/adult/increase/lengthen/size          |
+| sol      | sun/light                                            |
+| pon      | kindness/positivity/good/thank you/improve/repair    |
+| mai      | stay/wait/fixed/stationary                           |
+| ali      | all/everything/universe                              |
+| eto      | food/eat                                             |
+| fen      | air/wind/smell/spirit/gaseous                        |
+| mot      | dead/death/kill/deadly                               |
+| via      | road/path/way                                        |
+| nom      | word/name                                            |
+| jen      | person                                               |
+| man      | man/male                                             |
+| nisi     | woman/female                                         |
+| wota     | liquid/water                                         |
+| koja     | gather/hunt/forage/search for                        |
+| ante     | contrast/change                                      |
+| nafi     | bad/negative                                         |
+| limi     | inside                                               |
+| sale     | dirty/gross                                          |
+| tene     | have/own/include/recieve                             |
+| satu     | approach/come/arrive/start/event                     |
+| lisu     | plant                                                |
+| util     | use/to use                                           |
+| fala     | fruit                                                |
+| kuto     | cut/fragment/separate/knife/sharp                    |
+| meli     | viscous/honey                                        |
+| soma     | sleep/rest                                           |
+| sifu     | leader/boss/guide                                    |
+| sotu     | small/young/reduce                                   |
+| visi     | see/watch/read/visible                               |
+| tolu     | hole/window/door/passage                             |
+| stan     | land/country/space/area/place/location               |
+| moni     | money/currency/wealth                                |
+| posu     | back/rear                                            |
+| joki     | game/play/entertainment/fun/art                      |
+| poli     | many/large amount/increase                           |
+| pijo     | stupid/crazy/drunk/weird                             |
+| mons     | bump/hill/nose/mountain                              |
+| itsa     | enjoy/like/love                                      |
+| taka     | open/turn                                            |
+| lapo     | activity/work/job/build/operate                      |
+| tone     | give/send/put/to place                               |
+| fini     | end/tip over/past/finish/turn off                    |
+| late     | side by side/edge/next to                            |
+| sako     | container/vessel/box/sack                            |
+| simi     | same/equal/similar                                   |
+| ekni     | fire/hot/heat/warm/cooked/heat/cook/burn             |
+| kelu     | cold/uncooked/freeze                                 |
+| supi     | above/top/ontop/superior/up                          |
+| nowu     | new/fresh/different                                  |
+| walu     | wall/vertical/obstacle                               |
+| mowe     | toward/for/to go/travel/leave/move/transportation    |
+| toki     | language/speech/communication/talk/say/verbal/hello! |
+| tomo     | room/space/volume/structure/home/building            |
+| pisu     | one/unit/element/part/piece                          |
+| wile     | want/will/need to/desire                             |
+| kuti     | surface/outside/shell/skin                           |
+| noisu    | sound/noise                                          |
+| stela    | heavenly body/planet/star                            |
+| petli    | hard/solid/stone/metal                               |
+| nitsi    | below/bottom/down/under                              |
+| wolwo    | circle/ring/periodic/cycle/sphere/ball/round/wheel   |
+| pento    | image/picture/drawing/writing/graphical              |
+| nosko    | knowledge/wisdom/understanding/know/understand       |
+| weita    | taste/flavour                                        |
+| paton    | long hard object/stick/branch/rod/pole               |
+| senti    | feeling/emotion/to feel/touch/think about            |
+| fensu    | mistake/accident/broken/damage/damaged               |
+| sakti    | force/energy/strong/powerful/intense/confident       |
+| jakto    | far/missing/throw away/clean/free                    |
+| sonti    | body/physical state                                  |
+| pekto    | front/chest/torso/face                               |
+| plana    | flat/paper                                           |
+| maoji    | trade/exchange/market/shop                           |
+| wastu    | thing/object/item                                    |
+| masin    | tool/machine/device                                  |
+| laiwo    | left                                                 |
+| teksto   | right                                                |
+| jansu    | colour                                               |
+| sonsa    | be/exist                                             |
+| patala   | long/thin/rope/hair                                  |
+| famili   | group/people/family                                  |
+| anumati  | to be able/allow/enable/make possible                |
+| janawal  | animal                                               |
 double/pair/two/share/separate
 
 time/period/duration
