@@ -1,5 +1,4 @@
-﻿ali toki: international auxilliary language based on toki pona
-Rules:
+# ali toki: international auxilliary language based on toki pona
 Vowels: E/A  I  O/U
 Consonants: M N  P  T  K  S  F  W  L  J
 
