@@ -1,6 +1,6 @@
 # ali toki: international auxilliary language based on toki pona
 Vowels: E/A  I  O/U  
-Consonants: M N  P  T  K  S  F  W  L  J  
+Consonants: M  N  P  T  K  S  F  W  L  J  
 
 The vowels E/A and O/U are treated as interchangable, different letters may be used to suggest a pronunciation and enhance recognizability but will never be vital to differentiating words.
 
@@ -115,3 +115,6 @@ Word list:
 |          | unique/exceptional/but                                      |
 |          | horizontal surface/furniture/floor/table/chair              |
 |          | question                                                    |
+
+
+Feel free to suggest improvements and missing words!
