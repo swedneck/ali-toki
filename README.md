@@ -68,7 +68,7 @@ Word list:
 | tone     | give/send/put/to place                                      |
 | fini     | end/tip over/past/finish/turn off                           |
 | late     | side by side/edge/next to                                   |
-| sako     | container/vessel/box/sack                                   |
+| sako     | container/vessel/box/sack/bag                               |
 | simi     | same/equal/similar                                          |
 | ekni     | fire/hot/heat/warm/cooked/heat/cook/burn                    |
 | kelu     | cold/uncooked/freeze                                        |
