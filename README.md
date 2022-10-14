@@ -5,6 +5,10 @@ Consonants: M  N  P  T  K  S  F  W  L  J
 The vowels E/A and O/U are treated as interchangable, different letters may be used to suggest a pronunciation and enhance recognizability but will never be vital to differentiating words.
 
 Similarily the pronunciation of all letters is not rigid, you may (and arguably should) pronounce words as is most comfortable, in the end all that matters is that your target audience understands you.
+
+Like in toki pona, words after the "main" word are descriptors and a new "main" word is signified by "e".  
+In writing this is further clarified by using dashes to visually connect the words.
+
 Word list:
 | ali toki | English                                                     |
 |:---------|-------------------------------------------------------------|
