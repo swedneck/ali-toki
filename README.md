@@ -8,10 +8,11 @@ Similarily the pronunciation of all letters is not rigid, you may (and arguably 
 Word list:
 | ali toki | English                                                     |
 |:---------|-------------------------------------------------------------|
+| e        | separates predicate from addition                           |
 | nampa    | number                                                      |
 | selo     | zero/none                                                   |
 | wan      | one                                                         |
-| tu       | two                                                         |
+| tu       | two/double/pair/two/share/separate                          |
 | tin      | three                                                       |
 | fu       | four                                                        |
 | fai      | five                                                        |
@@ -81,6 +82,7 @@ Word list:
 | wile     | want/will/need to/desire                                    |
 | kuti     | surface/outside/shell/skin                                  |
 | noisu    | sound/noise                                                 |
+| tempo    | time/period/duration                                        |
 | stela    | heavenly body/planet/star                                   |
 | petli    | hard/solid/stone/metal                                      |
 | nitsi    | below/bottom/down/under                                     |
@@ -107,8 +109,6 @@ Word list:
 | famili   | group/people/family                                         |
 | anumati  | to be able/allow/enable/make possible                       |
 | janawal  | animal                                                      |
-|          | double/pair/two/share/separate                              |
-|          | time/period/duration                                        |
 |          | gender/erotic/sex                                           |
 |          | conflict/competition/fight/battle/war/attack/dispute/insult |
 |          | of/via/because/thanks to/due to/reason for/after/source     |
