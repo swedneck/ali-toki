@@ -20,7 +20,7 @@ Word list:
 | tin      | three                                                       |
 | fu       | four                                                        |
 | fai      | five                                                        |
-| ko       | no/wrong                                                    |
+| ko       | no/wrong/not                                                |
 | si       | yes/correct                                                 |
 | en       | and                                                         |
 | ja       | or/whether                                                  |
@@ -44,7 +44,7 @@ Word list:
 | wota     | liquid/water                                                |
 | koja     | gather/hunt/forage/search for                               |
 | ante     | contrast/change                                             |
-| nafi     | bad/negative/negate                                         |
+| nafi     | bad/negative/unpleasant                                     |
 | limi     | inside                                                      |
 | sale     | dirty/gross                                                 |
 | tene     | have/own/include/recieve                                    |
