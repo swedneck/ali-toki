@@ -44,7 +44,7 @@ Word list:
 | wota     | liquid/water                                                |
 | koja     | gather/hunt/forage/search for                               |
 | ante     | contrast/change                                             |
-| nafi     | bad/negative                                                |
+| nafi     | bad/negative/negate                                         |
 | limi     | inside                                                      |
 | sale     | dirty/gross                                                 |
 | tene     | have/own/include/recieve                                    |
