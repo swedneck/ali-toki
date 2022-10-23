@@ -35,11 +35,11 @@ Word list:
 | ali      | all/everything/universe                                     |
 | eto      | food/eat                                                    |
 | fen      | air/wind/smell/spirit/gaseous                               |
-| mot      | dead/death/kill/deadly                                      |
 | via      | road/path/way                                               |
 | nom      | word/name                                                   |
 | jen      | person                                                      |
 | man      | man/male                                                    |
+| viva     | live/life/alive/living/healthy                              |
 | nisi     | woman/female                                                |
 | wota     | liquid/water                                                |
 | koja     | gather/hunt/forage/search for                               |
