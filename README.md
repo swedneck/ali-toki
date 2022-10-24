@@ -34,7 +34,7 @@ Word list:
 | mai      | stay/wait/fixed/stationary                                  |
 | ali      | all/everything/universe                                     |
 | eto      | food/eat                                                    |
-| fen      | air/wind/smell/spirit/gaseous                               |
+| fen      | air/wind/spirit/gaseous                                     |
 | via      | road/path/way                                               |
 | nom      | word/name                                                   |
 | jen      | person                                                      |
@@ -93,7 +93,7 @@ Word list:
 | wolwo    | circle/ring/periodic/cycle/sphere/ball/round/wheel          |
 | pento    | image/picture/drawing/writing/graphical                     |
 | nosko    | knowledge/wisdom/understanding/know/understand              |
-| weita    | taste/flavour                                               |
+| weita    | taste/flavour/smell                                         |
 | paton    | long hard object/stick/branch/rod/pole                      |
 | senti    | feeling/emotion/to feel/touch/think about                   |
 | fensu    | mistake/accident/broken/damage/damaged                      |
