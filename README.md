@@ -95,7 +95,7 @@ Word list:
 | nosko    | knowledge/wisdom/understanding/know/understand              |
 | weita    | taste/flavour/smell                                         |
 | paton    | long hard object/stick/branch/rod/pole                      |
-| sensi    | feeling/emotion/to feel/touch/think about                   |
+| sensi    | feeling/emotion/to feel/touch/think about/sense/sensation |
 | fensu    | mistake/accident/broken/damage/damaged                      |
 | sakti    | force/energy/strong/powerful/intense/confident              |
 | jakto    | far/missing/throw away/clean/free                           |
