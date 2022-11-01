@@ -26,7 +26,7 @@ Word list:
 | ja       | or/whether                                                  |
 | te       | of                                                          |
 | mi       | i/we/us/my/our                                              |
-| ju       | you/your                                                    |
+| vu       | you/your                                                    |
 | se       | it/this                                                     |
 | lan      | big/tall/large/adult/increase/lengthen/size                 |
 | sol      | sun/light                                                   |
