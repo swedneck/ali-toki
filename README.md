@@ -53,7 +53,7 @@ Word list:
 | util     | use/to use                                                  |
 | fala     | fruit                                                       |
 | kuto     | cut/fragment/separate/knife/sharp                           |
-| meli     | viscous/honey                                               |
+| mel     | viscous/honey                                               |
 | soma     | sleep/rest                                                  |
 | sifu     | leader/boss/guide                                           |
 | sotu     | small/young/reduce                                          |
