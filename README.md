@@ -114,7 +114,7 @@ Word list:
 | anumati  | to be able/allow/enable/make possible                       |
 | janawal  | animal                                                      |
 |          | gender/erotic/sex                                           |
-|          | conflict/competition/fight/battle/war/attack/dispute/insult |
+| kaleri | conflict/competition/fight/battle/war/attack/dispute/insult |
 |          | of/via/because/thanks to/due to/reason for/after/source     |
 |          | unique/exceptional/but                                      |
 |          | horizontal surface/furniture/floor/table/chair              |
