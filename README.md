@@ -40,7 +40,7 @@ Word list:
 | jen      | person                                                      |
 | man      | man/male                                                    |
 | viva     | live/life/alive/living/healthy                              |
-| nisi     | woman/female                                                |
+| muje     | woman/female                                                |
 | wota     | liquid/water                                                |
 | koja     | gather/hunt/forage/search for                               |
 | ante     | contrast/change                                             |
@@ -53,7 +53,7 @@ Word list:
 | util     | use/to use                                                  |
 | fala     | fruit                                                       |
 | kuto     | cut/fragment/separate/knife/sharp                           |
-| mel     | viscous/honey                                               |
+| meli     | viscous/honey                                               |
 | soma     | sleep/rest                                                  |
 | sifu     | leader/boss/guide                                           |
 | sotu     | small/young/reduce                                          |
