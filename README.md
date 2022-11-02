@@ -33,7 +33,7 @@ Word list:
 | pon      | kindness/positivity/good/thank you/improve/repair           |
 | mai      | stay/wait/fixed/stationary                                  |
 | ali      | all/everything/universe                                     |
-| eto      | food/eat                                                    |
+| kana     | food/eat                                                    |
 | fen      | air/wind/spirit/gaseous                                     |
 | via      | road/path/way                                               |
 | nom      | word/name                                                   |
@@ -95,7 +95,7 @@ Word list:
 | nosko    | knowledge/wisdom/understanding/know/understand              |
 | weita    | taste/flavour/smell                                         |
 | paton    | long hard object/stick/branch/rod/pole                      |
-| sensi    | feeling/emotion/to feel/touch/think about/sense/sensation |
+| sensi    | feeling/emotion/to feel/touch/think about/sense/sensation   |
 | fensu    | mistake/accident/broken/damage/damaged                      |
 | sakti    | force/energy/strong/powerful/intense/confident              |
 | jakto    | far/missing/throw away/clean/free                           |
@@ -114,7 +114,7 @@ Word list:
 | anumati  | to be able/allow/enable/make possible                       |
 | janawal  | animal                                                      |
 |          | gender/erotic/sex                                           |
-| kaleri | conflict/competition/fight/battle/war/attack/dispute/insult |
+| kaleri   | conflict/competition/fight/battle/war/attack/dispute/insult |
 |          | of/via/because/thanks to/due to/reason for/after/source     |
 |          | unique/exceptional/but                                      |
 |          | horizontal surface/furniture/floor/table/chair              |
