@@ -1,4 +1,4 @@
-# ali toki: international auxilliary language based on toki pona
+# ali-toki: international auxilliary language based on toki pona
 Vowels: E/A  I  O/U  
 Consonants: M  N  P  T  K  S  F  W  L  J  
 
@@ -10,7 +10,7 @@ Like in toki pona, words after the "main" word are descriptors and a new "main" 
 In writing this is further clarified by using dashes to visually connect the words.
 
 Word list:
-| ali toki | English                                                     |
+| ali-toki | English                                                     |
 |:---------|-------------------------------------------------------------|
 | e        | separates predicate from addition                           |
 | nampa    | number                                                      |
