@@ -1,6 +1,6 @@
 # ali-toki: international auxilliary language based on toki pona
 Vowels: E/A  I  O/U  
-Consonants: M  N  P  T  K  S  F  W  L  J  
+Consonants: M  N  P  T  K  S  F  W  V  L  J  
 
 The vowels E/A and O/U are treated as interchangable, different letters may be used to suggest a pronunciation and enhance recognizability but will never be vital to differentiating words.
 
@@ -77,7 +77,7 @@ Word list:
 | ekni     | fire/hot/heat/warm/cooked/heat/cook/burn                    |
 | kelu     | cold/uncooked/freeze                                        |
 | supi     | above/top/ontop/superior/up                                 |
-| nowu     | new/fresh/different                                         |
+| novu     | new/fresh/different                                         |
 | walu     | wall/vertical/obstacle                                      |
 | mowe     | toward/for/to go/travel/leave/move/transportation           |
 | toki     | language/speech/communication/talk/say/verbal/hello!        |
@@ -90,7 +90,7 @@ Word list:
 | stela    | heavenly body/planet/star                                   |
 | petli    | hard/solid/stone/metal                                      |
 | nitsi    | below/bottom/down/under                                     |
-| wolwo    | circle/ring/periodic/cycle/sphere/ball/round/wheel          |
+| wolvo    | circle/ring/periodic/cycle/sphere/ball/round/wheel          |
 | pento    | image/picture/drawing/writing/graphical                     |
 | nosko    | knowledge/wisdom/understanding/know/understand              |
 | weita    | taste/flavour/smell                                         |
