@@ -39,6 +39,7 @@ Word list:
 | nom      | word/name                                                   |
 | jen      | person                                                      |
 | man      | man/male                                                    |
+| oko      | see/watch/read/visible                                      |
 | viva     | live/life/alive/living/healthy                              |
 | muje     | woman/female                                                |
 | wota     | liquid/water                                                |
@@ -57,7 +58,6 @@ Word list:
 | soma     | sleep/rest                                                  |
 | sifu     | leader/boss/guide                                           |
 | sotu     | small/young/reduce                                          |
-| visi     | see/watch/read/visible                                      |
 | tolu     | hole/window/door/passage                                    |
 | stan     | land/country/space/area/place/location                      |
 | moni     | money/currency/wealth                                       |
