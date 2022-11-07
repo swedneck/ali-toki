@@ -50,7 +50,7 @@ Word list:
 | sale     | dirty/gross                                                 |
 | tene     | have/own/include/recieve                                    |
 | satu     | approach/come/arrive/start/event                            |
-| lisu     | plant                                                       |
+| foli     | plant                                                       |
 | util     | use/to use                                                  |
 | fala     | fruit                                                       |
 | kuto     | cut/fragment/separate/knife/sharp                           |
