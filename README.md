@@ -46,7 +46,7 @@ Word list:
 | koja     | gather/hunt/forage/search for                               |
 | ante     | contrast/change                                             |
 | nafi     | bad/negative/unpleasant                                     |
-| limi     | inside                                                      |
+| ento     | inside                                                      |
 | sale     | dirty/gross                                                 |
 | tene     | have/own/include/recieve                                    |
 | satu     | approach/come/arrive/start/event                            |
