@@ -20,7 +20,7 @@ Word list:
 | tin      | three                                                       |
 | fu       | four                                                        |
 | fai      | five                                                        |
-| ko       | no/wrong/not                                                |
+| ne       | no/wrong/not                                                |
 | si       | yes/correct                                                 |
 | en       | and                                                         |
 | ja       | or/whether                                                  |
@@ -118,7 +118,7 @@ Word list:
 |          | of/via/because/thanks to/due to/reason for/after/source     |
 |          | unique/exceptional/but                                      |
 |          | horizontal surface/furniture/floor/table/chair              |
-|          | question                                                    |
+| ke       | question                                                    |
 
 
 Feel free to suggest improvements and missing words!
