@@ -42,6 +42,7 @@ Word list:
 | man      | man/male                                                    |
 | oko      | see/watch/read/visible                                      |
 | kos      | of/via/because/thanks to/due to/reason for/after/source     |
+| ken      | knowledge/wisdom/understanding/able to/can do               |
 | viva     | live/life/alive/living/healthy                              |
 | muje     | woman/female                                                |
 | wota     | liquid/water                                                |
@@ -94,7 +95,6 @@ Word list:
 | nitsi    | below/bottom/down/under                                     |
 | wolvo    | circle/ring/periodic/cycle/sphere/ball/round/wheel          |
 | pento    | image/picture/drawing/writing/graphical                     |
-| nosko    | knowledge/wisdom/understanding/know/understand              |
 | weita    | taste/flavour/smell                                         |
 | paton    | long hard object/stick/branch/rod/pole                      |
 | sensi    | feeling/emotion/to feel/touch/think about/sense/sensation   |
@@ -114,7 +114,7 @@ Word list:
 | patala   | long/thin/rope/hair                                         |
 | famili   | group/people/family                                         |
 | kaleri   | conflict/competition/fight/battle/war/attack/dispute/insult |
-| anumati  | to be able/allow/enable/make possible                       |
+| anumati  | allow/permit/enable/make possible                           |
 | janawal  | animal                                                      |
 |          | gender/erotic/sex                                           |
 |          | unique/exceptional/but                                      |
