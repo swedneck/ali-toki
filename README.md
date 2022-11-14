@@ -28,6 +28,7 @@ Word list:
 | mi       | i/we/us/my/our                                              |
 | vu       | you/your                                                    |
 | se       | it/this                                                     |
+| ke       | question                                                    |
 | lan      | big/tall/large/adult/increase/lengthen/size                 |
 | sol      | sun/light                                                   |
 | pon      | kindness/positivity/good/thank you/improve/repair           |
@@ -40,6 +41,7 @@ Word list:
 | jen      | person                                                      |
 | man      | man/male                                                    |
 | oko      | see/watch/read/visible                                      |
+| kos      | of/via/because/thanks to/due to/reason for/after/source     |
 | viva     | live/life/alive/living/healthy                              |
 | muje     | woman/female                                                |
 | wota     | liquid/water                                                |
@@ -111,14 +113,12 @@ Word list:
 | sonsa    | be/exist                                                    |
 | patala   | long/thin/rope/hair                                         |
 | famili   | group/people/family                                         |
+| kaleri   | conflict/competition/fight/battle/war/attack/dispute/insult |
 | anumati  | to be able/allow/enable/make possible                       |
 | janawal  | animal                                                      |
 |          | gender/erotic/sex                                           |
-| kaleri   | conflict/competition/fight/battle/war/attack/dispute/insult |
-|          | of/via/because/thanks to/due to/reason for/after/source     |
 |          | unique/exceptional/but                                      |
 |          | horizontal surface/furniture/floor/table/chair              |
-| ke       | question                                                    |
 
 
 Feel free to suggest improvements and missing words!
