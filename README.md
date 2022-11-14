@@ -34,7 +34,6 @@ Word list:
 | pon      | kindness/positivity/good/thank you/improve/repair           |
 | mai      | stay/wait/fixed/stationary                                  |
 | ali      | all/everything/universe                                     |
-| kana     | food/eat                                                    |
 | fen      | air/wind/spirit/gaseous                                     |
 | via      | road/path/way                                               |
 | nom      | word/name                                                   |
@@ -43,6 +42,7 @@ Word list:
 | oko      | see/watch/read/visible                                      |
 | kos      | of/via/because/thanks to/due to/reason for/after/source     |
 | ken      | knowledge/wisdom/understanding/able to/can do               |
+| kana     | food/eat                                                    |
 | viva     | live/life/alive/living/healthy                              |
 | muje     | woman/female                                                |
 | wota     | liquid/water                                                |
@@ -108,9 +108,9 @@ Word list:
 | wastu    | thing/object/item                                           |
 | masin    | tool/machine/device                                         |
 | laiwo    | left                                                        |
-| teksto   | right                                                       |
 | jansu    | colour                                                      |
 | sonsa    | be/exist                                                    |
+| teksto   | right                                                       |
 | patala   | long/thin/rope/hair                                         |
 | famili   | group/people/family                                         |
 | kaleri   | conflict/competition/fight/battle/war/attack/dispute/insult |
