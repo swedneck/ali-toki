@@ -40,6 +40,7 @@ Word list:
 | jen      | person                                                      |
 | man      | man/male                                                    |
 | oko      | see/watch/read/visible                                      |
+| hua       | image/picture/drawing/writing/graphical                     |
 | kos      | of/via/because/thanks to/due to/reason for/after/source     |
 | ken      | knowledge/wisdom/understanding/able to/can do               |
 | kana     | food/eat                                                    |
@@ -94,7 +95,6 @@ Word list:
 | petli    | hard/solid/stone/metal                                      |
 | nitsi    | below/bottom/down/under                                     |
 | wolvo    | circle/ring/periodic/cycle/sphere/ball/round/wheel          |
-| pento    | image/picture/drawing/writing/graphical                     |
 | weita    | taste/flavour/smell                                         |
 | paton    | long hard object/stick/branch/rod/pole                      |
 | sensi    | feeling/emotion/to feel/touch/think about/sense/sensation   |
