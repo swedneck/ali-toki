@@ -13,7 +13,7 @@ Word list:
 | ali-toki | English                                                     |
 |:---------|-------------------------------------------------------------|
 | e        | separates predicate from addition                           |
-| nampa    | number                                                      |
+| nampa    | number/count/amount                                         |
 | selo     | zero/none                                                   |
 | wan      | one                                                         |
 | tu       | two/double/pair/two/share/separate                          |
@@ -40,7 +40,7 @@ Word list:
 | jen      | person                                                      |
 | man      | man/male                                                    |
 | oko      | see/watch/read/visible                                      |
-| hua       | image/picture/drawing/writing/graphical                     |
+| hua      | image/picture/drawing/writing/graphical                     |
 | kos      | of/via/because/thanks to/due to/reason for/after/source     |
 | ken      | knowledge/wisdom/understanding/able to/can do               |
 | kana     | food/eat                                                    |
