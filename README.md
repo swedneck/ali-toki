@@ -13,6 +13,7 @@ Word list:
 | ali-toki | English                                                     |
 |:---------|-------------------------------------------------------------|
 | e        | separates predicate from addition                           |
+| li       | roughly equivalent to "is"                                  |
 | nampa    | number/count/amount                                         |
 | selo     | zero/none                                                   |
 | wan      | one                                                         |
